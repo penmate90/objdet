@@ -1,0 +1,27 @@
+body{
+    background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 99%);
+
+}
+
+.header{
+    width: 100%;
+    height: 80px;
+}
+
+#hed{
+    font-size: 30px;
+}
+
+#in{
+    width: 40%;
+}
+
+canvas{
+    border-radius: 30px;
+    margin-top: 100px;
+    border-style: solid;
+    border: rgb(51, 129, 230);
+    border-width: 4px;
+}
+
